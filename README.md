@@ -7,8 +7,8 @@ A assignment project in which have all new coding structured follows
    1. *Android SDK Platform-Tools*
    1. *Android Support Repository*
    1. *Google Repository*
-1. Return to Android Studio and select *Open an existing Android Studio project*
-
+   
+   
 **IMPORTANT** Ensure you have set the ANDROID_HOME environment variable.
 
     SDk location
@@ -22,6 +22,9 @@ A assignment project in which have all new coding structured follows
   4. Run the project
   *Note* - Please create a project on NY times for API_Key and use own key for run the application/
   
+  ## Architecture 🗼
+This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
+
   
   ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
